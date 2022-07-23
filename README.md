@@ -1,3 +1,3 @@
-Demo: https://bunyamink2.github.io/quiz-appp/
+Demo: https://bunyamink2.github.io/quiz-app/
 
 # quiz-appp
