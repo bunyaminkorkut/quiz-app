@@ -1,2 +1,2 @@
 # quiz-app
-Demo: https://bunyamink2.github.io/quiz-app/
+Demo: https://bunyaminkorkut.github.io/quiz-app/
